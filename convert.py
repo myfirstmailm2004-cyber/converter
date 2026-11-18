@@ -6,3 +6,6 @@ def miles_to_km(miles):
 
 def c_to_f(c):
     return c * 1.8 + 32
+
+def c_to_k(c):
+    return c + 273.15
